@@ -118,6 +118,8 @@ while (1==1):
     if str(cat) == 1: #1번 카테고리는 무조건 피해야할 장애물로 학습 
       print("object detected")
       #uart 코드작성
+      #test코드
+      print("cat1 decetced") #테스트 완료 시, 삭제바람
       int_value = randint(0, 1)
       int_v = 0
       ser.readline().strip().decode('utf-8')
