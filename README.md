@@ -10,8 +10,10 @@ https://github.com/general-vision/NeuroShield
 Required hardware
 -----------------
 
-
 Raspberry pi(host for Neuroshield)
+
 Arduino(as Motor control hub)
+
 Neuroshield(for Neuromophic Ai calucating)
+
 L298n Motor driver(for motor control)
