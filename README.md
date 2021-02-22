@@ -1,4 +1,5 @@
-# Neurobot-RPI
+# Neurobot-RPI ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
+
 R&amp;E contest
 
 Thanks for edyhn, greenman, General-vision inc
